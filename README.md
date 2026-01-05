@@ -17,7 +17,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="40%">
+<table><tr><td valign="top" width="33%">
   
 ### Frontend  
   
@@ -34,7 +34,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="33%">
   
 ### Backend  
 
@@ -51,7 +51,7 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="33%">
   
 ### DevOps  
 
@@ -78,9 +78,9 @@
 
 <div> 
 <a>
-  <img height=200 align="center" src="https://github-readme-stats-nu-two-12.vercel.app/api/?username=NazariiKon&theme=github_dark" />
+  <img height=200 align="center" src="https://github-readme-stats-nu-two-12.vercel.app/api/?username=NazariiKon&theme=github_dark&hide_border=true" />
 </a>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats-nu-two-12.vercel.app/api/top-langs?username=NazariiKon&layout=donut&langs_count=8&card_width=320&theme=github_dark" />
+  <img height=190 align="center" src="https://github-readme-stats-nu-two-12.vercel.app/api/top-langs?username=NazariiKon&layout=donut&langs_count=8&card_width=320&theme=github_dark&hide_border=true" />
 </a>
 </div>
