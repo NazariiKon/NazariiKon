@@ -5,7 +5,7 @@
 ### <div align="center">Hi there 👋 I'm Nazarii.</div>  
 ### Computer Science student who loves building things, learning deeply, and improving every day 
 
-- 🔭 I’m currently working on my own [Menu+ pet-project](https://github.com/NazariiKon/menu-plus)
+- 🔭 I’m currently working on my own [Menu+](https://github.com/NazariiKon/menu-plus) pet-project
   
 - 🌱 I’m currently learning React, TypeScript, FastAPI & Supabase
 
