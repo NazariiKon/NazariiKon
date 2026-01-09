@@ -5,12 +5,11 @@
 ### <div align="center">Hi there 👋 I'm Nazarii.</div>  
 ### Computer Science student who loves building things, learning deeply, and improving every day 
 
-- 🔭 I’m currently working on my own [chess website](https://github.com/NazariiKon/MyChess)  
+- 🔭 I’m currently working on my own [Menu+ pet-project](https://github.com/NazariiKon/menu-plus)
   
+- 🌱 I’m currently learning React, TypeScript, FastAPI & Supabase
 
-- 🌱 I’m currently learning WebSockets
-
-- ✨ I enjoy films, philosophy, and hiking
+- ✨ I enjoy films, philosophy, and sport
   
 
 <br/>  
