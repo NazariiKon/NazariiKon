@@ -71,9 +71,10 @@
 
 ## Github Stats  
 
+
 <div> 
 <a>
-  <img height=200 align="center" src="https://github-readme-stats-nu-two-12.vercel.app/api/?username=NazariiKon&theme=github_dark&hide_border=true&commits_year=2026" />
+  <img height=200 align="center" src="https://github-readme-streak-stats-pi-eight.vercel.app/?user=NazariiKon&theme=github_dark&date_format=[Y]&fire=ff4757&dates=95a9ff&stroke=95a9ff&hide_border=true" />
 </a>
 <a>
   <img height=190 align="center" src="https://github-readme-stats-nu-two-12.vercel.app/api/top-langs?username=NazariiKon&layout=donut&langs_count=8&card_width=320&theme=github_dark&hide_border=true" />
